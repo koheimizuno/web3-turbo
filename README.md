@@ -1,17 +1,11 @@
 # 📦 Create web3 turbo
 
-<img width="1920" alt="Cover - 1" src="https://github.com/memoriaXII/create-web3-turbo/assets/56249189/0ebff69f-084e-49e6-8db1-c403f06e872b">
-
 This boilerplate is based on [Turborepo](https://github.com/vercel/turborepo).
 It uses [Yarn](https://classic.yarnpkg.com/lang/en/) as a package manager. It includes the following packages/apps:
 
 ## Installation
 
 There are two ways of initializing an app using `create-web3-turbo` starter. You can either use this repository as a template or use Turbo's CLI to init your project:
-
-```bash
-npx create-turbo@latest -e https://github.com/memoriaXII/create-web3-turbo
-```
 
 ### Apps and Packages
 
@@ -68,10 +62,6 @@ I recommend the following extension to make it easy to switch among packages in 
 link: https://marketplace.visualstudio.com/items?itemName=folke.vscode-monorepo-workspace
 
 ## Get started
-
-```
-git clone https://github.com/memoriaXII/turborepo-web3-starter-kit.git
-```
 
 ```
 cd turborepo-web3-starter-kit
